@@ -7,7 +7,7 @@
 ### *¡Soy más amigo de Salviati que de Simplicio, aunque respeto y admiro la visión neutral de Sagredo!*
 
 
-<img align="center" src="https://www.studiarapido.it/wp-content/uploads/2014/06/galileo-galilei2.jpg"/>
+<img align="center" src="https://www.studiarapido.it/wp-content/uploads/2014/06/galileo-galilei2.jpg">
 
 
 
