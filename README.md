@@ -1,16 +1,14 @@
-### Hi there 👋
+### ¡Hola mundo!
 
-<!--
-**Edimer/Edimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐜🧮🐖📐🌾🐄🍃🍄🐓📏💧🥑🐡📚 Actualmente estoy trabajando en la construcción de un libro de Ciencia de Datos en la Agricultura, con aplicaciones en *R*, *Python* y *Julia* ⌛⌛⌛.
+- 📫✔️ Me puedes escribir a **edavidja@unal.edu.co** o en **edimer.davidj@udea.edu.co**
+- 🖐🖐🖐 Si quieres unirte a nuestro [semillero de ciencia de datos con R y Python](https://semillerorpy.netlify.app/), no dudes en escribirme 😁.
 
-Here are some ideas to get you started:
+##### *¡Soy más amigo de Salviati que de Simplicio, aunque respeto y admiro la visión neutral de Sagredo!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+<img src = "https://www.studiarapido.it/wp-content/uploads/2014/06/galileo-galilei2.jpg" />
+</center>
+
+
+
